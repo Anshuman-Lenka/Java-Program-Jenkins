@@ -6,11 +6,11 @@ public class Main{
 
         System.out.println("This is java program");
         System.out.println("Software Engineer");
-       // System.out.println(new Date());
+        System.out.println(new Date());
         System.out.println("Hello....");
         System.out.println("I can do it....");
-       // Student student= new Student();
-       // student.sayHello();
+        Student student= new Student();
+        student.sayHello();
 
 
 
